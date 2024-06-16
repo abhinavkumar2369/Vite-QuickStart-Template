@@ -1,6 +1,6 @@
 <div align="center">
      <h1 align="center">Vite Project</h1>
-     <img src="" height=90px width=90px/>
+     <img src="https://github.com/abhinavkumar2369/Vite-QuickStart-Template/assets/170245635/0231f1c2-4036-47cc-aa69-9ca83bfb812c" height=90px width=90px/>
      <br/>
      <br/>
      <img alt="Static Badge" src="https://img.shields.io/badge/Website-red?style=for-the-badge">
@@ -20,24 +20,24 @@
      <!-- --------------------------------------------- -->
      <br/>
      <!-- License -->
-     <img alt="GitHub License" src="https://img.shields.io/github/license/username/repo">
+     <img alt="GitHub License" src="https://img.shields.io/github/license/abhinavkumar2369/Vite-QuickStart-Template">
      <br/>
      <!-- Commit Count -->
-     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/username/repo/main">
+     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/abhinavkumar2369/Vite-QuickStart-Template/main">
      <!-- Repo Size -->
-     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/username/repo?style=flat&color=orange">
+     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/abhinavkumar2369/Vite-QuickStart-Template?style=flat&color=orange">
      <!-- Repo Code -->
-     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/username/repo">
+     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abhinavkumar2369/Vite-QuickStart-Template">
      <br/>
-     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/username/repo?style=flat&color=orange">
+     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abhinavkumar2369/Vite-QuickStart-Template?style=flat&color=orange">
      <!-- Language Count -->
-     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/username/repo">
+     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abhinavkumar2369/Vite-QuickStart-Template">
      <!-- Watchers -->
-     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/username/repo?style=flat">
+     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/abhinavkumar2369/Vite-QuickStart-Template?style=flat">
      <!-- Forks -->
-     <img alt="GitHub forks" src="https://img.shields.io/github/forks/username/repo?style=flat&color=orange">
+     <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhinavkumar2369/Vite-QuickStart-Template?style=flat&color=orange">
      <br/>
-     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/username/repo">
+     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/abhinavkumar2369/Vite-QuickStart-Template">
 </div>
 
 
@@ -45,18 +45,19 @@
 
 
 ## Overview 🌟
-
+Write about the project over here.
 
 
 ## Features 🚀
-- 
+- 1
+- 2
 
 
 <!------------------------------------------------->
   
 
 ## [➡️ Calculator ](https://username.github.io/Project-Name/)
-![Image]()
+![Image](https://github.com/abhinavkumar2369/Vite-QuickStart-Template/assets/170245635/14bb080a-539b-4474-bed0-b9afdbd3a4c3)
 
 
 <!------------------------------------------------->
