@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-- If you discover a security vulnerability in the **Vite Project**, please report it to us via email at - abhinavkumar2369@proton.me
+- If you discover a security vulnerability in the **Vite Project**, please report it to us via email at - abhinavkumar2369@outlook.com
 - Include a detailed description and steps to solve the issue.
 
 
